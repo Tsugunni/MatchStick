@@ -1,4 +1,4 @@
-# java_subject
+# MatchStick
 
 「マッチ棒を一本だけ動かして正しい式を作りなさい。」
 
